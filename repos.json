@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "Orion-KSU-for-Zizhan",
+      "repo": "https://github.com/LineageOS/android_device_xiaomi_zizhan",
+      "branch": "master",
+      "device": "zizhan"
     },
     "withKernelSU": true,
     "toolchains": [
